@@ -25,4 +25,4 @@ async def tabnews(message):
     await message.channel.send("O Tabnews é uma plataforma que podemos compartilhar experiência, informações e notícias sobre tecnologia, idealizado pelo Filipe Deschamps.")
 
 #Token
-bot.run('MTEyNjU5MTMwNTc3MDg4MTE2NQ.Gdq4DO.vxZbljyY8rJo_CvIQ0PR1KVMa--T-Z-IJH2_Qo')
+bot.run('token_here')
